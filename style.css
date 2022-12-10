@@ -1,0 +1,52 @@
+body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.h
+{
+    width: 100% !important;
+}
+
+.h h1 
+{
+    display: inline !important;
+
+}
+
+.h button
+{
+    float: right;
+    border: 1px solid blue;
+}
+
+#big_image
+{
+    width: 100%;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.i1
+{
+    width: 50%;
+}
+
+#linuk
+{
+    background-color: whitesmoke;
+    width: 100%;
+    margin-bottom: 0;
+    padding: 10px;
+}
+
+video
+{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
